@@ -1,0 +1,21 @@
+{
+  "name": "users-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasminhillis/users-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasminhillis/users-list/issues"
+  },
+  "homepage": "https://github.com/yasminhillis/users-list#readme"
+}
